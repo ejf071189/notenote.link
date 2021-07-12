@@ -1,0 +1,1 @@
+Links to [[Note 2]]
