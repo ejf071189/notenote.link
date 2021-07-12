@@ -39,7 +39,7 @@ After having forked [[notenote.link::https://github.com/Maxence-L/notenote.link]
 
 This will allow you to modify all your markdown files inside the directory. 
 
-`about.md` is in the root folder.
+`about.md` is in the root folder!!!.
 
 Your notes should go to the `_notes` folder, images in `assets/img`. You need to tell Obsidian where to put the new notes. In Preferences/File, enter the following settings :
 
